@@ -32,11 +32,13 @@ Join statement to create a tastes_ratings table for visualizations:
 
 	CREATE TABLE taste_ratings AS
 
-	SELECT chocolate_id, word, rating
-	
-	FROM tastes 
-	
-	JOIN chocolate ON tastes.chocolate_id = chocolate.index; 
+	SELECT c.chocolate_id, t.word, c.rating
+
+	FROM tastes as t
+
+	JOIN chocolate as c  ON t.chocolate_id = c.chocolate_id; 
+
+
 
 
 ### Questions:
