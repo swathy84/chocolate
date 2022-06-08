@@ -4,11 +4,14 @@ group project
 
 ## Self-Assessment
 
-We are team of 4 :
+#### Team:
 
 Dainita Longman
+
 Valeriya Hamm
+
 Amber Middendorf
+
 Swathy Rao
 
 #### Each responsibilities: 
@@ -21,9 +24,7 @@ Dainita Longman -  cleaning up the data, database connection setup to the machin
 
 Valeriya Hamm - Analysis phase, machine learning model using K-nearest Neighbor
 
-#### My responsibility 
-
-My responsible included : 
+#### My responsibility:
 
 - Creating the initial ERD (Entitiy relationship diagram ) for the database along with its datatypes and connection between the tables
 
@@ -31,52 +32,22 @@ My responsible included :
 
 - Creating Tables(chocolate, regions, tastes ) in the database 
 
-<<<<<<< HEAD
 - linking the database fromPostgreSQL to the AWS to  have team access to the dataabse 
-=======
 
-### Database schema: My responsibility 
->>>>>>> 49089a52a1b34c5baf58d0b5c7ae8397dec03ccf
-
-- using psycop2  to get  database connection  to the macxhine learning model.
+- using psycop2  to get  database connection  to the machine learning model.
 
 
-<<<<<<< HEAD
 #### Challenges 
-=======
 
-Database : chocolate_db
->>>>>>> 49089a52a1b34c5baf58d0b5c7ae8397dec03ccf
+We had some challenges to load data to the table but were able to get the database loaded after making several adjustments and tweaks to the data. 
 
-We had some challenges to load data to the table but were able to get the database loaded after making several adjustments and tweaks 
-
-
-<<<<<<< HEAD
-## Team -Assessment
-=======
-Creation of 'chocolate' table used for visualizations in Tableau and the export of the table to Postgres SQL database is done in:
-https://github.com/ambermiddendorf/chocolate_lovers/blob/main/Coding.ipynb
->>>>>>> 49089a52a1b34c5baf58d0b5c7ae8397dec03ccf
+## Team-Assessment
 
 We worked very well as team. Each of the member were responsible for their part of the project as well as worked as a team to help resolve isuues came up through the course of the project. 
 
 We used Slack as our main communication . 
 
-<<<<<<< HEAD
 ## Summary of the project 
-=======
-
-	CREATE TABLE taste_ratings AS
-
-	SELECT c.chocolate_id, t.word, c.rating
-
-	FROM tastes as t
-
-	JOIN chocolate as c  ON t.chocolate_id = c.chocolate_id; 
-
-
-
->>>>>>> 49089a52a1b34c5baf58d0b5c7ae8397dec03ccf
 
 Chocolate Lovers Project, it is fun and interesting topic, we all enjoy eating chocolate and wanted to learn what features influenced the best rated chocolate. 
 
