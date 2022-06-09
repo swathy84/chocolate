@@ -1,6 +1,4 @@
-# chocolate lovers
-group project 
-
+# Chocolate Lovers
 
 ## Self-Assessment
 
@@ -57,7 +55,7 @@ We have used the chocolate.csv data file from Kaggle
 
 Through this project, we wanted to discover if it was the ingredients or the origin of the beans that impacted the chocolate ratings the most? Where do best cocoa comes from? Where does the best chocolate come from and What words do people use to describe the best chocolate bar?
 
-#### The Technologies,languages,tools and algorithms used: 
+### The Technologies,languages,tools and algorithms used: 
 
 Python 3.7.6
 Jupyter Notebooks
@@ -67,13 +65,13 @@ PostgreSQL - Database
 Tableau - Visualization and dashboard 
 Google slides - presentation 
 
-#### Results of the analysis 
+### Results of the analysis 
 
 The majority of chocolate bars were rated between 3 and 4. Less than 9% of chocolate bars was rated lower than 2.5 and was considered Unsatisfactory.  By utilizing bar charts, we were able to see where the top rated beans come from, Venezuela, Peru, Dominican Republic. Ecuador, and Madagascar. The countries that produced the majority of chocolate bars were United States, France, Canada, U.K,and Italy. The average rating for chocolate bars produced by Soma is 3.75. The majority of the bars had between 70% and 75% of cocoa, with 70% being the most popular concentration, so we can make the conclusion that more cocoa does not mean better rated chocolate. 
 
 
 
-###### Visualizations:
+#### Visualizations:
 * Map of the countries with highest rated chocolate or best beans.
 
 ![BeanOrigin](https://user-images.githubusercontent.com/95837693/170160404-0cce849e-75bc-429b-852d-e8e98e20b790.PNG)
@@ -92,7 +90,7 @@ The majority of chocolate bars were rated between 3 and 4. Less than 9% of choco
 ![Rated4](https://user-images.githubusercontent.com/95837693/170157155-0f01b9d7-116d-45a3-91e3-aa2480da9bd6.png)
 
 
-###### Dashboard:
+#### Dashboard:
 
 Dashboard created in Tableau to demonstrate the origins of beans of the top rated chocolates and the top tastes used to describe those chocolates. You'll be able to filter the rating of chocolates to see correlating information.
 
@@ -100,3 +98,5 @@ Dashboard created in Tableau to demonstrate the origins of beans of the top rate
 
 [Dashboard](https://public.tableau.com/app/profile/amber.middendorf/viz/Chocolate_Lovers_Maps/ChocolateStory?publish=yes)
 
+### Presentation:
+[Google Slides presentation](https://docs.google.com/presentation/d/1te5ZXxZTKd96h4kvXEQcbKajDS40BcD1Jgh-bilh2kU/edit#slide=id.g12a98ee664f_0_1)
